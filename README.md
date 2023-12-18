@@ -28,8 +28,7 @@ WMS Wisata adalah aplikasi berbasis web yang dikembangkan menggunakan Express.js
 
 6. Buka browser dan ketikkan alamat berikut:
 
-   ```bash
-    http://localhost:3000
+    <http://localhost:3000>
 
 ## Kontribusi
 
